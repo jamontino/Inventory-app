@@ -1,7 +1,7 @@
 package com.jam.app.controller
 
 import com.jam.app.model.Inventory
-import com.jam.app.services.InventoryService
+import com.jam.app.service.InventoryService
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController

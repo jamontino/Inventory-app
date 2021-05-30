@@ -1,4 +1,4 @@
-package com.jam.app.services
+package com.jam.app.service
 
 import com.jam.app.model.Inventory
 import com.jam.app.repo.InMemoryInventoryRepository

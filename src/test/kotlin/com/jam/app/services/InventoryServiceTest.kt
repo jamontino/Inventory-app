@@ -1,6 +1,7 @@
 package com.jam.app.services
 
 import com.jam.app.repo.InMemoryInventoryRepository
+import com.jam.app.service.InventoryService
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
